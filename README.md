@@ -103,6 +103,6 @@ Create your workout routines, add exercises, and track your progress. Stay motiv
 
 We welcome contributions to make WorkoutBuddy-app better! 
 
-Feel free to reach out to us if you have any questions or feedback. Happy exercising! 💪🏋️‍♀️🚴‍♂️🏃‍♂️
+Feel free to reach out to me  if you have any questions or feedback. Happy exercising! 💪🏋️‍♀️🚴‍♂️🏃‍♂️
 ```
 In this updated README, I've added a new "Prerequisites" section and updated the "Installation" section with separate commands for installing the necessary server and client dependencies. I've also included links to the respective packages in the prerequisites section.

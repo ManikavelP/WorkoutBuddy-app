@@ -3,7 +3,7 @@
 ```markdown
 # WorkoutBuddy-app 
 
-WorkoutBuddy-app is a web application that helps you track your fitness progress, create and share workout routines, and connect with other fitness enthusiasts.
+WorkoutBuddy-app is a web application that helps you track your fitness progress, create workout routines.
 Whether you're a seasoned gym-goer or just starting your fitness journey, WorkoutBuddy-app is here to support you in achieving your fitness goals.
 
 ## Table of Contents
@@ -15,7 +15,7 @@ Whether you're a seasoned gym-goer or just starting your fitness journey, Workou
 - [Usage](#usage)
 - [Styling with Tailwind CSS](#styling-with-tailwind-css)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -103,9 +103,6 @@ Create your workout routines, add exercises, and track your progress. Stay motiv
 
 We welcome contributions to make WorkoutBuddy-app better! 
 
-
-
 Feel free to reach out to us if you have any questions or feedback. Happy exercising! 💪🏋️‍♀️🚴‍♂️🏃‍♂️
 ```
-
 In this updated README, I've added a new "Prerequisites" section and updated the "Installation" section with separate commands for installing the necessary server and client dependencies. I've also included links to the respective packages in the prerequisites section.

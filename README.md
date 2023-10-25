@@ -3,7 +3,8 @@
 ```markdown
 # WorkoutBuddy-app 
 
-WorkoutBuddy-app is a web application that helps you track your fitness progress, create and share workout routines, and connect with other fitness enthusiasts. Whether you're a seasoned gym-goer or just starting your fitness journey, WorkoutBuddy-app is here to support you in achieving your fitness goals.
+WorkoutBuddy-app is a web application that helps you track your fitness progress, create and share workout routines, and connect with other fitness enthusiasts.
+Whether you're a seasoned gym-goer or just starting your fitness journey, WorkoutBuddy-app is here to support you in achieving your fitness goals.
 
 ## Table of Contents
 
@@ -18,12 +19,9 @@ WorkoutBuddy-app is a web application that helps you track your fitness progress
 
 ## Features
 
-- User registration and authentication
 - Create, edit, and delete workout routines
 - Add, update, and remove exercises within routines
 - Track your workout history
-- Connect with other users and share routines
-- Real-time notifications
 - User-friendly and intuitive user interface
 - Responsive design for mobile and desktop
 

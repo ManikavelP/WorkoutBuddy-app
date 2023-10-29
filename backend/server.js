@@ -19,12 +19,11 @@ app.use((req,res,next) => {
   next();
 
 })
-app.use(
-  cors({
-    origin :[ " http:localhost:3000" ,"https://WorkoutBuddy-app.onrender.com"],
-  })
-
-);
+app.use(cors({
+  origin :["https://workout-buddy-app-dun.vercel.app/"],
+  methods : ["POST" , "GET"],
+  credentials:true
+}));
 //routes
 app.use('/api/workouts', workRoutes)
 

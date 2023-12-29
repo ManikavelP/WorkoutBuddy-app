@@ -19,8 +19,8 @@ const Home = () => {
   }, [dispatch]);
 
   return (
-    <div className="flex flex-col sm:flex-row  w-full mt-12 pt-5 ">
-    <div className="flex-1 flex flex-wrap sm:justify-start justify-center sm:mt-4 m-5 sm:ml-6">
+    <div className="flex flex-col sm:flex-row  w-full mt-12 p-5 ">
+    <div className="flex-1 flex flex-wrap sm:justify-between justify-center m-5 ">
       {workouts && workouts.map((workout) => (
           <WorkoutDetails key={workout._id} workout={workout}/>
         ))}
